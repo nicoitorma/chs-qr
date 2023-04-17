@@ -39156,7 +39156,7 @@ switch(0){case 0:s=A.oY(new A.KC(B.yP,p.as,o),o,o)
 r=t.VS
 q=t.p
 r=A.p6(A.a([new A.cy(B.be,A.ajU(A.a([A.ajm(new A.cy(B.Ap,A.a8H(p.at,B.Bk,A.a([new A.kQ(A.bQ("[BSNDbsnd]",!0),!0,"")],r),new A.adA()),o)),A.ajm(new A.cy(B.n5,A.a8H(p.ax,B.Bn,A.a([new A.kQ(A.bQ("[1234]",!0),!0,"")],r),new A.adB()),o)),A.ajm(new A.cy(B.n5,A.a8H(p.ay,B.Bl,A.a([new A.kQ(A.bQ("[ABCDEFabcdef]",!0),!0,"")],r),new A.adC()),o))],q),B.bd,B.tG,B.bY),o),new A.cy(B.be,A.a8H(p.ch,B.Bm,A.a([new A.kQ(A.bQ("[0-9-]",!0),!0,"")],r),new A.adD()),o)],q),B.bd,B.bE,B.eD)
-return A.qR(B.cF,A.a([s,A.ayV(A.oY(A.p6(A.a([B.wg,new A.v6(r,B.lY,p.d),B.wg,A.amN(B.MS,new A.adE(p),A.amO(o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.KY,o))],q),B.bd,B.bE,B.eD),o,o))],q),B.a7,B.cA)}},
+return A.qR(B.cF,A.a([s,A.ayV(A.oY(A.p6(A.a([B.wg,new A.v6(r,B.lY,p.d),B.wg,A.amN(B.MT,new A.adE(p),A.amO(o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.KY,o))],q),B.bd,B.bE,B.eD),o,o))],q),B.a7,B.cA)}},
 L(a){var s=null,r=A.an8("assets/chs.png",s,s)
 this.a.toString
 r=A.ajU(A.a([new A.Dw(r,s),B.Ij,A.lJ("CHS QR REPOSITORY",s,s,s,s,s,s)],t.p),B.bd,B.tG,B.eD)
@@ -39168,7 +39168,7 @@ A.adG.prototype={
 $0(){this.a.as=!1},
 $S:0}
 A.adH.prototype={
-$1(a){return A.am_(A.p6(A.a([A.an8("assets/error.png",100,100),B.MT],t.p),B.bd,B.bE,B.bY),B.MU)},
+$1(a){return A.am_(A.p6(A.a([A.an8("assets/error.png",100,100),B.MS],t.p),B.bd,B.bE,B.bY),B.MU)},
 $S:111}
 A.adK.prototype={
 $1(a){var s=this.a,r=this.b
@@ -77675,8 +77675,8 @@ B.LF=new A.u(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.MP=new A.dV(B.Lp,B.My,B.Mh,B.K8,B.M9,B.Li,B.MC,B.Kz,B.L1,B.M4,B.K3,B.Mj,B.M7,B.M1,B.LF)
 B.wA=new A.yB(1,"longestLine")
 B.MQ=new A.iI("Download",null,null,null,null,null,null,null,null)
-B.MS=new A.iI("Submit",null,null,null,null,null,null,null,null)
-B.MT=new A.iI("I'm tired looking but found nothing, please contact \nyour year level representative.",null,null,null,null,null,null,null,null)
+B.MS=new A.iI("I'm tired looking but found nothing, please contact the system admin.",null,null,null,null,null,null,null,null)
+B.MT=new A.iI("Submit",null,null,null,null,null,null,null,null)
 B.MU=new A.iI("Oh no!",null,null,null,null,null,null,null,null)
 B.Q_=new A.Ka(0,"system")
 B.MV=new A.yE(null)
